@@ -1,15 +1,12 @@
 {
     "name": "pxt-ssd1306-api",
     "version": "0.0.0",
-    "description": "",
+    "description": "Alternative package for the SSD1306 OLED controller",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
         "main.ts"
     ],
     "testFiles": [
@@ -19,5 +16,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
