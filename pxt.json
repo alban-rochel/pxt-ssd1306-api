@@ -3,7 +3,8 @@
     "version": "0.0.0",
     "description": "Alternative package for the SSD1306 OLED controller",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "pxt-ssd1306-api": "github:alban-rochel/pxt-ssd1306-api#6e9453c790e6d8c1ddb1ec4d2fed21905ebb8eaf"
     },
     "files": [
         "README.md",
